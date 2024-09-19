@@ -1,4 +1,4 @@
-@def title = "Franklin Example"
+@def title = "Mao Zhou 周茂"
 @def tags = ["syntax", "code"]
 
 # 关于我
