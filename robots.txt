@@ -1,0 +1,4 @@
+Sitemap: https://ZMAlt.github.io/maozhougeo/sitemap.xml
+
+User-agent: *
+Disallow:
