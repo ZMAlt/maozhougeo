@@ -7,7 +7,7 @@
 
 ## 其他链接
 
-- [CSL 中文手册](https://github.com/ZMAlt/CSL_Chinese)
+- [CSL 中文手册](https://zmalt.github.io/CSL_Chinese/)
 - [GMT 中文手册](https://docs.gmt-china.org/latest/)
 
 
